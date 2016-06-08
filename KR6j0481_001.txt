@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:22.569486
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大吉祥天女十二名號經
 #+PROPERTY: CBETA_ID T21n1252b
 #+PROPERTY: ID KR6j0481
