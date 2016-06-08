@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:22.569486
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:17
 #+TITLE: 佛說大吉祥天女十二名號經
 #+PROPERTY: CBETA_ID T21n1252b
 #+PROPERTY: ID KR6j0481
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1252b
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0481_T_000-0252c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0481_T_001-0252c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 《佛說大吉祥天女十二名號經》¶
+《佛說大吉祥天女十二名號經》¶
 ¶
 唐三藏沙門大廣智不空譯¶
 
